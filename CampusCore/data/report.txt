@@ -1,0 +1,48 @@
+============================================================
+                   CampusCore Report
+============================================================
+
+
+             Generated on: 2026-08-03 16:03:46
+
+------------------------------------------------------------
+                     General Statistics
+------------------------------------------------------------
+
+Total Students: 17
+Total Courses: 12
+Average Age of Students: 22.47
+
+
+------------------------------------------------------------
+                     Students per Semester
+------------------------------------------------------------
+
+semester: 1, number of students: 2
+semester: 2, number of students: 2
+semester: 3, number of students: 5
+semester: 4, number of students: 2
+semester: 5, number of students: 3
+semester: 6, number of students: 2
+semester: 8, number of students: 1
+
+
+------------------------------------------------------------
+                     Duplicate Names
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+                     Duplicate Courses
+------------------------------------------------------------
+
+Duplicate Course: computer science - Students: 2
+Duplicate Course: cyber security - Students: 2
+Duplicate Course: information technology - Students: 2
+Duplicate Course: software engineering - Students: 2
+
+
+------------------------------------------------------------
+                    End of Report
+============================================================

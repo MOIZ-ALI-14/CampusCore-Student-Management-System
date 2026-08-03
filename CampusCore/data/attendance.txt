@@ -1,0 +1,117 @@
+
+
+============================
+  Attendance for 2026-07-28
+============================
+
+Roll Number		Name		Status
+101				Ali			Present
+102				Ahmad Raza			Present
+103				Sara Ali			Present
+105				Ayesha Noor			Present
+106				Umar Farooq			Absent
+107				Zainab Fatima			Absent
+108				Bilal Ahamad			Absent
+109				Maryam Khan			Present
+112				Abdullah Shah			Absent
+113				Iqra Aslam			Present
+114				Hamza Siddiqui			Present
+115				Fatima Zahira			Present
+116				Moiz Ali			Present
+117				Mirza Moiz ALi			Present
+118				Shoaib Ali			Present
+119				Luqman Ali			Present
+
+
+============================
+  Attendance for 2026-07-29
+============================
+
+Roll No		Name		Status
+101				Ali			Present
+102				Ahmad Raza			Absent
+103				Sara Ali			Present
+105				Ayesha Noor			Present
+106				Umar Farooq			Present
+107				Zainab Fatima			Absent
+108				Bilal Ahamad			Present
+109				Maryam Khan			Absent
+112				Abdullah Shah			Present
+113				Iqra Aslam			Absent
+114				Hamza Siddiqui			Present
+115				Fatima Zahira			Present
+116				Moiz Ali			Present
+117				Mirza Moiz ALi			Present
+118				Shoaib Ali			Present
+119				Luqman Ali			Present
+
+
+============================
+  Attendance for 2026-07-30
+============================
+
+Roll No		Name		Status
+101				Ali			Present
+102				Ahmad Raza			Absent
+103				Sara Ali			Present
+105				Ayesha Noor			Absent
+106				Umar Farooq			Present
+107				Zainab Fatima			Present
+108				Bilal Ahamad			Present
+109				Maryam Khan			Present
+112				Abdullah Shah			Present
+113				Iqra Aslam			Present
+114				Hamza Siddiqui			Absent
+115				Fatima Zahira			Present
+116				Moiz Ali			Present
+117				Mirza Moiz ALi			Absent
+118				Shoaib Ali			Absent
+119				Luqman Ali			Present
+
+
+
+============================
+  Attendance for 2026-07-31
+============================
+
+Roll No		Name			Status
+101				Ali			Present
+105				Ayesha Noor			Present
+106				Umar Farooq			Absent
+107				Zainab Fatima			Absent
+108				Bilal Ahamad			Absent
+109				Maryam Khan			Absent
+112				Abdullah Shah			Absent
+113				Iqra Aslam			Absent
+114				Hamza Siddiqui			Absent
+115				Fatima Zahira			Present
+116				Moiz Ali			Present
+117				Mirza Moiz ALi			Present
+118				Shoaib Ali			Absent
+119				Luqman Ali			Present
+121				Micky			Absent
+146				kama kala			Present
+
+
+============================
+  Attendance for 2026-08-03
+============================
+
+Roll No		Name			Status
+101				Ali			Present
+105				Ayesha Noor			Absent
+106				Umar Farooq			Present
+107				Zainab Fatima			Absent
+108				Bilal Ahamad			Present
+109				Maryam Khan			Absent
+112				Abdullah Shah			Absent
+113				Iqra Aslam			Present
+114				Hamza Siddiqui			Absent
+115				Fatima Zahira			Present
+116				Moiz Ali			Absent
+117				Mirza Moiz ALi			Absent
+118				Shoaib Ali			Present
+119				Luqman Ali			Present
+146				kama kala			Present
+133				Mujahid			Present
+212				Mirza Subhan			Absent

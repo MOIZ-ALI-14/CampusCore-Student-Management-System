@@ -1,0 +1,17 @@
+1 == ,101,Ali,20,3,Computer Science
+5 == ,105,Ayesha Noor,20,3,Cyber Security
+6 == ,106,Umar Farooq,21,4,Computer Science
+7 == ,107,Zainab Fatima,20,3,Information Technology
+8 == ,108,Bilal Ahamad,23,6,Software Engineering
+9 == ,109,Maryam Khan,20,3,Artificial Intelligence
+12 == ,112,Abdullah Shah,18,1,Information Technology
+13 == ,113,Iqra Aslam,20,3,Cyber Security
+14 == ,114,Hamza Siddiqui,22,5, Computer Science
+15 == ,115,Fatima Zahira,19,2,Software Engineering
+16 == ,116,Moiz Ali,21,5,Digital Logic Design
+17 == ,117,Mirza Moiz ALi,22,8,Python Developer
+18 == ,118,Shoaib Ali,34,4,Computer Analysis
+19 == ,119,Luqman Ali,25,6,Islamiyat
+21 == ,146,kama kala,22,2,Greatest
+22 == ,133,Mujahid,34,1,Pak Army
+23 == ,212,updated subhan mirza saab,32,7,english and literature
