@@ -86,19 +86,16 @@ Generate useful student statistics:
 - Recursion (used where required)
 - Working with dates and time
 
-## ▶️ How To Run
-
-### 1. Clone the repository
-
-```bash
-git clone <repository-link>
-2. Open the project folder
-cd CampusCore
-3. Run the program
-python main.py
+## ▶️ How to Run
 ```
+1. Install Python 3.x on your computer.
+2. Clone this repository using Git or download it as a ZIP from GitHub.
+3. Open the cloned/downloaded project folder in VS Code.
+4. Open the inner `CampusCore` folder.
+5. Open a terminal inside the `CampusCore` folder.
+6. Run `python main.py` to start the application.
 🎯 Purpose
-
+```
 CampusCore was created to transform Python knowledge into a practical application by solving a real-world management problem.
 This project represents my transition from learning Python concepts to applying them in software development.
 
