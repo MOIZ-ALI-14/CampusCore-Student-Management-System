@@ -91,10 +91,8 @@ Generate useful student statistics:
 1. Install Python 3.x on your computer.
 2. On GitHub, click **Code → Download ZIP**.
 3. Extract the downloaded ZIP file.
-4. Open the extracted project in VS Code.
-5. Open the inner `CampusCore` folder.
-6. Open a terminal inside the `CampusCore` folder.
-7. Run `python main.py` to start the application.
+4. Open CampusCore folder(that is in extracted folder) in the vs code 
+6. Run `python main.py` to start the application.
 ```
 
 🎯 Purpose
