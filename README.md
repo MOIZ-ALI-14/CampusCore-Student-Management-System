@@ -89,11 +89,12 @@ Generate useful student statistics:
 ## ▶️ How to Run
 ```
 1. Install Python 3.x on your computer.
-2. Clone this repository using Git or download it as a ZIP from GitHub.
-3. Open the cloned/downloaded project folder in VS Code.
-4. Open the inner `CampusCore` folder.
-5. Open a terminal inside the `CampusCore` folder.
-6. Run `python main.py` to start the application.
+2. On GitHub, click **Code → Download ZIP**.
+3. Extract the downloaded ZIP file.
+4. Open the extracted project in VS Code.
+5. Open the inner `CampusCore` folder.
+6. Open a terminal inside the `CampusCore` folder.
+7. Run `python main.py` to start the application.
 ```
 
 🎯 Purpose
