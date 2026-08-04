@@ -94,8 +94,10 @@ Generate useful student statistics:
 4. Open the inner `CampusCore` folder.
 5. Open a terminal inside the `CampusCore` folder.
 6. Run `python main.py` to start the application.
-🎯 Purpose
 ```
+
+🎯 Purpose
+
 CampusCore was created to transform Python knowledge into a practical application by solving a real-world management problem.
 This project represents my transition from learning Python concepts to applying them in software development.
 
