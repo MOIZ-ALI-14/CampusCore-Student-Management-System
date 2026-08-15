@@ -100,16 +100,6 @@ Generate useful student statistics:
 CampusCore was created to transform Python knowledge into a practical application by solving a real-world management problem.
 This project represents my transition from learning Python concepts to applying them in software development.
 
-🔮 Future Improvements
-
-Possible future upgrades:
-
-Database integration (SQLite/MySQL)
-Graphical User Interface (GUI)
-Web version using Flask
-Advanced authentication
-Cloud deployment
-
 👨‍💻 Developer
 Moiz Ali
 🎓 Computer Science Student
